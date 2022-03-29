@@ -1,0 +1,2 @@
+include ':app', ':ZSDK_ANDROID_API', ':gson-2.3.1'
+rootProject.name='CPCL_Test_v1'
